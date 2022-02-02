@@ -1,0 +1,19 @@
+LINK TUTO : 
+https://www.bezkoder.com/node-js-jwt-authentication-mysql/
+
+BD cloud
+Clevercloud - emailenplus3
+
+cd POLYTECH/INFO\ 5A/SECURITE\ DES\ SI/NOUVEAU/mySQL_Backend/
+
+git push origin master
+
+token git : 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
+
+ROUTES -- 
+
+findAllUsers() :
+http://localhost:8080/api/user/findAllUsers
+
+inscription():
+http://localhost:8080/api/auth/signup
